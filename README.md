@@ -18,7 +18,7 @@ A savoir, les concepts élémentaires de la programmation orienté objet
 - Encapsulation
 - Héritage
 - Polymorphisme
-- Execptions
+- Exceptions
 
 4) Environnement
 
