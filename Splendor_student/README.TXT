@@ -77,10 +77,4 @@ Durant notre implémentation, nous avons rencontré certaines difficultés telle
 
 7) Auteurs
 
-Clarence Bosser  bosser.e2200517@etud.univ-ubs.fr
-
-Alan Dely dely.e2202116@etud.univ-ubs.fr
-
-Enora Dussault dussault.e2200960@etud.univ-ubs.fr
-
-Mael Guillen guillen.e2201176@etud.univ-ubs.fr
+Alan Dely dely.e2202116@etud.univ-ubs.fr et 3 autres camarades.
