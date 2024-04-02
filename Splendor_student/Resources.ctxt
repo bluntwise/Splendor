@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Resources
+comment0.text=\n\ On\ mod\u00E9lise\ les\ ressources\ par\ un\ HashMap\ sous\ cette\ forme\n\ ressources\ \=\ {\ \n\ \ \ \ \ Resource.DIAMOND\ ->\ 4,\n\ \ \ \ \ Resource.EMERALD\ ->\ 6,\n\ \ \ \ \ Resource.RUBY\ ->\ 1,\n\ \ \ \ \ Resource.ONYX\ ->\ 3,\n\ \ \ \ \ Resource.SAPPHIRE\n\ \ }\n\ \ On\ \u00E9tend\ la\ classe\ HashMap<Resource,\ Integer>\ \u00E0\ Resources\ pour\ que\ \n\ \ Resources\ soit\ lui\ meme\ un\ HashMap.\n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=
+comment1.target=Resources()
+comment2.params=typeResource
+comment2.target=int\ getNbResource(Resource)
+comment2.text=\ \n\ renvoie\ la\ qqt\u00E9\ de\ typeResource\ dans\ Resources\n\ Exemple\ avec\ le\ HashMap\ du\ d\u00E9but\ \:\ \n\ ressources.getNbResource(Resource.DIAMOND)\ ->\ 4\n
+comment3.params=typeResource\ quantite
+comment3.target=void\ setNbResource(Resource,\ int)
+comment3.text=\ \n\ permet\ de\ modifier\ la\ valeur\ sur\ laquelle\ typeResource\ renvoyait\ \n\ directement.\ Exemple\ \:\n\ ressources.setNbResource(Resource.DIAMOND,5)\ ->\ rien\n\ et\ donc\ Resource.DIAMOND\ \=\ 5\n
+comment4.params=typeResource\ quantite
+comment4.target=void\ updateNbResource(Resource,\ int)
+comment4.text=\ \n\ permet\ d'ajouter\ ou\ d'enlever\ une\ quantite\ sur\ laquelle\ renvoit\ typeResource\n\ Exemple\ \:\ ressources.updateNbresource(Resource.DIAMOND,\ 3)\ ->\ rien\n\ Resource.DIAMOND\ \=\ 8\ (5+3)\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getAvailableResources()
+comment5.text=\n\ Renvoie\ une\ ArrayList\ avec\ des\ objets\ de\ type\ resource\ \u00E0\ l'int\u00E9rieur\n\ qui\ renvoie\ une\ sur\ une\ valeur\ >\ 0\n\ Exemple\ \:\ ressources.getAvailableResources()\ ->\ ArrayList<Resource>\n\ [Resource.DIAMOND,Resource.EMERALD,Resource.ONYX,\ ...]\n
+numComments=6

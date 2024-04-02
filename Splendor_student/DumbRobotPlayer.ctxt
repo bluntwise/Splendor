@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DumbRobotPlayer
+comment0.text=\n\ Classe\ qui\ permet\ de\ cr\u00E9er\ un\ joueur\ robot\ et\ les\ actions\ qui\ seront\ \n\ appel\u00E9es\ \u00E0\ chaque\ tour\ du\ joueur.\n\ Chaque\ robot\ a\ un\ identifiant\ et\ un\ nom.\n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=id\ name
+comment1.target=DumbRobotPlayer(int,\ java.lang.String)
+comment2.params=b
+comment2.target=Action\ chooseAction(Board)
+comment2.text=\n\ lance\ une\ action\ BuyCardAction\ avec\ laquelle\ le\ robot\ va\ essayer\ d'acheter\ la\n\ carte\ la\ plus\ haute\ possible\n\ @param\ b\ plateau\ de\ jeu\n\ @return\ BuyCardAction(this)\ Action\ pour\ acheter\ une\ carte\n
+comment3.params=
+comment3.target=java.util.ArrayList\ chooseDiscardingTokens()
+comment3.text=\n\ \ choisit\ les\ cartes\ de\ fa\u00E7on\ bete\ pour\ le\ robot\ \n\ \ @return\ jetons\ ArrayList<Resource>\ des\ jetons\ d\u00E9fauss\u00E9s\n
+numComments=4

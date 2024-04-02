@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PickSameTokensAction
+comment0.text=\n\ Classe\ qui\ permet\ d'actualiser\ le\ plateau\ de\ jeu\ ainsi\ que\ le\ jeu\ \n\ du\ joueur\ quand\ celui-ci\ prend\ deux\ fois\ le\ m\u00EAme\ jeton\n\ On\ divise\ cette\ classe\ en\ deux\ parties\ selon\ le\ type\ de\ joueur\n\n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=p
+comment1.target=PickSameTokensAction(Player)
+comment2.params=b
+comment2.target=void\ process(Board)
+comment2.text=\n\ lance\ l'action\ qui\ demande\ \u00E0\ l'utilisateur\ quelle\ ressource\ il\ veut\ prendre\ \n\ en\ double\ et\ pour\ le\ robot\ cette\ ressource\ est\ choisi\ de\ mani\u00E8re\ bete\n\ @para\ b\ plateau\ de\ jeu\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ @return\ String\ message\ qui\ informe\ que\ le\ joueur\ \n\ vient\ de\ prendre\ deux\ jetons\ de\ resource\ r\ ou\ non\n
+numComments=4

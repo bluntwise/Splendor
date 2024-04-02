@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DevCard
+comment0.text=\n\ Cette\ classe\ repr\u00E9sente\ une\ carte\ de\ d\u00E9veloppement\ du\ jeu.\n\ Chaque\ carte\ a\ un\ niveau,\ un\ co\u00FBt,\ un\ nombre\ de\ points\ et\ un\ type\ de\ ressource.\n\n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 23/12/2023\n
+comment1.params=cost\ level\ points\ resourceType
+comment1.target=DevCard(Resources,\ int,\ int,\ Resource)
+comment2.params=
+comment2.target=java.lang.String[]\ toStringArray()
+comment3.params=
+comment3.target=java.lang.String[]\ noCardStringArray()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Methode\ toString\n\ @return\:\ retourne\ une\ repr\u00E9sentation\ visuelle\ de\ la\ carrte\ \n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\n\ Accesseurs\ pour\ le\ nombre\ de\ points\ de\ prestiges\ de\ la\ carte\n\ @return\:\ retourne\ le\ nombre\ de\ points\ de\ prestiges\ de\ la\ carte\ \n
+comment6.params=
+comment6.target=Resources\ getCost()
+comment6.text=\n\ Accesseurs\ pour\ les\ ressources\ d'achat\ de\ la\ carte\ \n\ @return\:\ retourne\ les\ ressources\ d'achat\ de\ la\ carte\ \n
+comment7.params=
+comment7.target=int\ getLevel()
+comment7.text=\n\ accesseurs\ pour\ le\ level\ de\ de\ la\ carte\ \n\ @return\:\ retourne\ le\ level\ de\ la\ carte\ \n
+comment8.params=
+comment8.target=Resource\ getResourceType()
+comment8.text=\n\ acesseurs\ pour\ la\ ressource\ bonus\ de\ la\ carte\ \n\ @return\:\ retourne\ la\ ressource\ bonus\ la\ carte\ \n
+numComments=9

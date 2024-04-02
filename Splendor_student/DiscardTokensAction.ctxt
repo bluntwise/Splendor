@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DiscardTokensAction
+comment0.text=\n\ Classe\ qui\ sert\ \u00E0\ actualiser\ le\ plateau\ de\ jeu\ ainsi\ que\ le\ jeu\ du\ \n\ joueur\ quand\ celui-ci\ d\u00E9fausse\ un\ jeton\n\ On\ divise\ cette\ classe\ en\ deux\ parties\ selon\ le\ type\ de\ joueur\n\ \n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=p
+comment1.target=DiscardTokensAction(Player)
+comment2.params=b
+comment2.target=void\ process(Board)
+comment2.text=\n\ permet\ de\ lancer\ l'action\ sur\ le\ joueur\ p\n\ @param\ \:\ b\ le\ plateau\ de\ jeu\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ renvoie\ un\ message\ si\ le\ joueur\ a\ d\u00E9fauss\u00E9\ ou\ non\ des\ jetons\n\ @return\ defausse\ message\ qui\ informe\ l'utilisateur\ de\ ce\ qu'il\ a\ d\u00E9fauss\u00E9\n
+numComments=4

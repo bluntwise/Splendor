@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PickDiffTokensAction
+comment0.text=\n\ Classe\ qui\ permet\ d'actualiser\ le\ tableau\ de\ jeu\ ainsi\ que\ le\ jeu\ d'un\ \n\ joueur\ quand\ celui-ci\ prend\ des\ jetons\ de\ ressources\ diff\u00E9rentes.\n\ On\ divise\ cette\ classe\ en\ deux\ parties\ selon\ le\ type\ de\ joueur\n\n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=p
+comment1.target=PickDiffTokensAction(Player)
+comment2.params=b
+comment2.target=void\ process(Board)
+comment2.text=\n\ lance\ l'action\ qui\ demande\ \u00E0\ l'utilisateur\ quelles\ ressources\ il\ veut\ prendre,\ 3\ ressources\n\ maximum\ peuvent\ etres\ prises\n\ @para\ b\ plateau\ de\ jeu\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ @return\ String\ message\ qui\ renvoie\ sir\ le\ joueur\ vient\ de\ \n\ prendre\ diff\u00E9rents\ jetons\ ou\ non\n
+numComments=4

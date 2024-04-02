@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PassAction
+comment0.text=\n\ Classe\ qui\ permet\ au\ joueur\ de\ passer\ son\ tour.\n\n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=p
+comment1.target=PassAction(Player)
+comment2.params=b
+comment2.target=void\ process(Board)
+comment2.text=\n\ m\u00E9thode\ qui\ fait\ passer\ le\ tour\ au\ joueur\n\ @param\ b\ plateau\ de\ jeu\ sur\ lequel\ joue\ le\ joueur\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ @return\ String\ message\ pour\ informer\ les\ joueurs\ que\ le\ joueur\ passes\ son\ tour\n
+numComments=4

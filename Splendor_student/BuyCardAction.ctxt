@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BuyCardAction
+comment0.text=\n\ Classe\ qui\ permet\ d'actualiser\ le\ plateau\ de\ jeu\ ainsi\ que\ le\ jeu\ du\ \n\ joueur\ lorsque\ celui-ci\ arrive\ \u00E0\ acheter\ une\ carte\ de\ d\u00E9veloppement\ visible\n\ On\ divise\ cette\ classe\ en\ deux\ parties\ selon\ le\ type\ de\ joueur\n\ \n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=p
+comment1.target=BuyCardAction(Player)
+comment2.params=b
+comment2.target=void\ process(Board)
+comment2.text=\n\ effectue\ l'action\ de\ faire\ acheter\ le\ joueur\ une\ carte\ \n\ @param\ b\ plateau\ de\ jeu\ sur\ lequel\ le\ joueur\ joue\n
+comment3.params=b
+comment3.target=java.util.ArrayList\ getSortedDevCardPoints(Board)
+comment3.text=\n\ @param\ b\ plateau\ de\ jeu\ sur\ lequel\ joue\ le\ joueur\ \n\ @return\ sortedDevCardList\ liste\ tri\u00E9e\ de\ DevCard\ dans\ \n\ l'ordre\ d\u00E9croissant\ en\ fonction\ des\ points\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ @return\ String\ message\ de\ r\u00E9ussite\ ou\ d'\u00E9chec\ de\ l'achat\n
+numComments=5

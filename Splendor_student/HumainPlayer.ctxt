@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HumainPlayer
+comment0.text=\n\ Classe\ qui\ permet\ de\ cr\u00E9er\ un\ joueur\ humain\ et\ les\ actions\ qui\ seront\ \n\ appel\u00E9es\ \u00E0\ chaque\ tour\ du\ joueur.\n\ Chaque\ humain\ a\ un\ identifiant\ et\ un\ nom.\n\ \n\ @author\:\ Clarence\ Bosser,\ Alan\ Dely,\ Enora\ Dussault,\ Mael\ Guillen\n\ @version\:\ 07/01/2024\n
+comment1.params=id\ name
+comment1.target=HumainPlayer(int,\ java.lang.String)
+comment2.params=b
+comment2.target=Action\ chooseAction(Board)
+comment2.text=\n\ L'utilisateur\ choisit\ ses\ action\ en\ tapant\ des\ chiffres\ une\ exception\ est\ lanc\u00E9e\ si\ \n\ il\ saisit\ tout\ sauf\ des\ chiffres\ entre\ 1\ et\ 4\ compris\n\ @param\ b\ Le\ plateau\ de\ jeu\ sur\ lequel\ la\ partie\ o\u00F9\ le\ joueur\ se\ d\u00E9roule\n\ @return\ action\ L'action\ que\ l'utilisateur\ a\ choisi\n
+comment3.params=
+comment3.target=java.util.ArrayList\ chooseDiscardingTokens()
+comment3.text=\n\ L'utilisateur\ choisit\ les\ jetons\ \u00E0\ d\u00E9fausser\ tant\ qu'il\ a\ plus\ de\ 10\ jetons\n\ @return\ jetons\ ArrayList<Resource>\ qui\ repr\u00E9sente\ les\ jetons\ d\u00E9fauss\u00E9es\ par\ l'utilisateur\n
+numComments=4
